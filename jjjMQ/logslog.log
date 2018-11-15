@@ -1,0 +1,6 @@
+2018-08-22 16:11:04  [ main:0 ] - [ INFO ]  publisher 开始 
+2018-08-22 16:11:04  [ main:2 ] - [ DEBUG ]  publisher 开始 
+2018-08-22 16:11:04  [ main:2 ] - [ INFO ]  consumer 开始 
+2018-08-22 16:11:04  [ main:86 ] - [ DEBUG ]  consumer jieshu 
+2018-08-22 16:11:04  [ main:86 ] - [ INFO ]  publisher 开始 
+2018-08-22 16:11:04  [ main:98 ] - [ INFO ]  publisher jishu  
